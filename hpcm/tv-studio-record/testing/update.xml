@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
     <versionNumber>1.0.2</versionNumber>
-    <url>https://www.dropbox.com/s/kbrby2gk36e8xvs/hpcm-tv-record.exe?dl=1</url>
+    <url>https://github.com/neuronic-games/software/blob/main/hpcm/tv-studio-record/testing/hpcm-tv-record.exe</url>
     <description><![CDATA[
     ]]></description>
 </update>
